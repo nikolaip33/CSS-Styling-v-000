@@ -1,0 +1,13 @@
+/* CSS Syntax
+
+selector {
+  property:value;
+  property:value;
+}
+
+*/
+
+p {
+  font-size: 1em; /* can be px, pt, % or em */
+  line-height: 1.5em;
+}
